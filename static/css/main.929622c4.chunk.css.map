@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,eACE,YAAa,CACb,eAAgB,CAChB,+BAAoC","file":"main.929622c4.chunk.css","sourcesContent":[".list {\n  &__wrapper {\n    padding: 20px;\n    list-style: none;\n    background-color: rgba(0, 0, 0, 0.1);\n  }\n}\n"]}
